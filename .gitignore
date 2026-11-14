@@ -36,3 +36,16 @@ replay_pid*
 *.lof
 *.blg
 *.bbl
+
+
+# ============= VSCode =============
+.vscode/
+
+# ============= AI Agents =============
+.claude/
+.anthropic/
+.codex/
+.opencode/
+.gemini/
+.agents/
+.agy/
